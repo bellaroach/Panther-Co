@@ -65,7 +65,7 @@ export default () => {
           <Heading>
               
           </Heading>
-          <PrimaryAction>Search Events Near Me</PrimaryAction>
+         
         </Content>
       </HeroContainer>
     </Container>

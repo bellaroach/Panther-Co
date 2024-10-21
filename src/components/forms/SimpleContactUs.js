@@ -40,23 +40,23 @@ export default () => {
       <Content>
         <FormContainer>
           <div tw="mx-auto max-w-4xl">
-            <h2>Organize an Event</h2>
+            <h2>Do you have any news?</h2>
             <form action="#">
               <TwoColumn>
                 <Column>
                   <InputContainer>
                     <Label htmlFor="name-input">Your Name</Label>
-                    <Input id="name-input" type="text" name="name" placeholder="E.g. John Doe" />
+                    <Input id="name-input" type="text" name="name" placeholder="E.g. Panther Co." />
                   </InputContainer>
                   <InputContainer>
                     <Label htmlFor="email-input">Your Email Address</Label>
-                    <Input id="email-input" type="email" name="email" placeholder="E.g. john@mail.com" />
+                    <Input id="email-input" type="email" name="email" placeholder="E.g. Panther@gmail.com" />
                   </InputContainer>
                 </Column>
                 <Column>
                   <InputContainer tw="flex-1">
-                    <Label htmlFor="name-input">Your Message</Label>
-                    <TextArea id="message-input" name="message" placeholder="E.g. Details about your event"/>
+                    <Label htmlFor="name-input">Your Interesting News</Label>
+                    <TextArea id="message-input" name="message" placeholder="E.g. Details about your news (Genre, Information)"/>
                   </InputContainer>
                 </Column>
               </TwoColumn>

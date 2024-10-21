@@ -139,13 +139,11 @@ export default ({
 
   return (
     <AnimationRevealPage disabled>
-      <AnimationRevealPage>
       <Hero />
       <Blog />
       <Testimonial />
       <ContactUsForm />
       <Footer />
-    </AnimationRevealPage>
     </AnimationRevealPage>
   );
 };
