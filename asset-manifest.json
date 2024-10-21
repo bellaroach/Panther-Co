@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Panther-Co/static/css/main.2a70a18c.css",
-    "main.js": "/Panther-Co/static/js/main.7cea0867.js",
+    "main.js": "/Panther-Co/static/js/main.3d6d0464.js",
     "static/media/AgencyLandingPage.jpeg": "/Panther-Co/static/media/AgencyLandingPage.717f8ed6737d6161b153.jpeg",
     "static/media/HotelTravelLandingPage.jpeg": "/Panther-Co/static/media/HotelTravelLandingPage.7cba2215c02e6e82fc39.jpeg",
     "static/media/PrivacyPolicyPage.jpeg": "/Panther-Co/static/media/PrivacyPolicyPage.87eaa1f87d0f370b9a87.jpeg",
@@ -93,10 +93,10 @@
     "static/media/arrow-right-3-icon.svg": "/Panther-Co/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
     "static/media/handle-icon.svg": "/Panther-Co/static/media/handle-icon.75eb6395a03cd55833f64fd24df39ff5.svg",
     "main.2a70a18c.css.map": "/Panther-Co/static/css/main.2a70a18c.css.map",
-    "main.7cea0867.js.map": "/Panther-Co/static/js/main.7cea0867.js.map"
+    "main.3d6d0464.js.map": "/Panther-Co/static/js/main.3d6d0464.js.map"
   },
   "entrypoints": [
     "static/css/main.2a70a18c.css",
-    "static/js/main.7cea0867.js"
+    "static/js/main.3d6d0464.js"
   ]
 }
