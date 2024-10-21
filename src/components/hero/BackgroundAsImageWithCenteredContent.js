@@ -16,7 +16,6 @@ const StyledHeader = styled(Header)`
   }
 `;
 
-const PrimaryLink = tw(PrimaryLinkBase)`rounded-full`
 const Container = styled.div`
   ${tw`relative -mx-8 -mt-8 bg-center bg-cover h-screen min-h-144`}
   background-image: url("${backgroundImage}");
@@ -49,11 +48,6 @@ export default () => {
         About us
       </NavLink>
     </NavLinks>,
-    <NavLinks key={2}>
-      <PrimaryLink href="/#">
-        Hire Us
-      </PrimaryLink>
-    </NavLinks>
   ];
 
   return (
@@ -65,7 +59,7 @@ export default () => {
           <Heading>
               
           </Heading>
-         
+
         </Content>
       </HeroContainer>
     </Container>
